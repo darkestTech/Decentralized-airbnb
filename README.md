@@ -17,10 +17,10 @@ StayChain is a decentralized Airbnb-like platform where users can list, browse, 
 ## 🖼️ Screenshots  
 
 ### 🏠 Home Page  
-![Home Page](./frontend/public/screen1.jpg)  
+![Home Page](frontend/public/screen1.jpg)  
 
 ### 📖 Listing  
-![My Bookings](./frontend/public/screen2.jpg)  
+![My Bookings](frontend/public/screen2.jpg)  
 
 ---
 
